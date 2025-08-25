@@ -1,0 +1,9 @@
+# Go build artifacts
+*.exe
+*.out
+*.test
+__debug_bin*
+
+# IDE files
+.vscode/
+.idea/
