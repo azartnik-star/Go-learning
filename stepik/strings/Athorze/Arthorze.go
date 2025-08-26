@@ -2,9 +2,7 @@
 // используется азбука Арторзе. Цифра 0 передается как ., 1 как -., 2 как --.
 package main
 
-import (
-	f "fmt"
-)
+import f "fmt"
 
 func main() {
 	var a string
