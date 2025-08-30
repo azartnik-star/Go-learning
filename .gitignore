@@ -3,6 +3,7 @@
 *.out
 *.test
 __debug_bin*
+/build/
 
 # IDE files
 .vscode/
